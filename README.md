@@ -1,23 +1,32 @@
-Goals:
+# To Do application - Using React and Redux
 
-Use useDispatch
-Use useSelector
-use routes for different pages
-use json-server
+Manage your task using this application. Add manage and delete task as per your need.
 
-Part-I
-Create a TODO list App
-Use react-redux to manage store
+<img src="https://github.com/Jasmine-Shaikh/To-Do-List-React-Redux/blob/master/Todo%20React%20Redux.PNG"/>
 
-Part-II
-home - /
-A user should be able to add todo details
-clicking on a todo item will take it to /todo/:id page
+## Installation
 
-Part-III
-each todo item should have a complete status option
-Toggle complete status
+Use the package manager [npm](https://docs.npmjs.com/cli/v6/commands/npm-install) to install the node module files.
 
-Part-IV
-A user should be able to remove an item
-Remove an item
+```bash
+npm install
+```
+
+## Usage
+
+```python
+npm start
+```
+
+
+## Tech Stack
+- React
+- Redux
+- json-server
+- charkra-ui
+
+## Features
+- Add task
+- Mark as Complete/Not Complete
+- Delete task
+
