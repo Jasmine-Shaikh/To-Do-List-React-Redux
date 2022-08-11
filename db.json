@@ -4,6 +4,11 @@
       "id": "e460a328-8033-4644-af7f-de40d61ca801",
       "title": "Learn Redux",
       "status": true
+    },
+    {
+      "id": "9a763b87-95c6-4813-9348-703a2e659990",
+      "title": "Learn backend",
+      "status": false
     }
   ]
 }
